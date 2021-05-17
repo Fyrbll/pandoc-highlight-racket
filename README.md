@@ -48,7 +48,7 @@ highlighting style that comes installed with Pandoc.
         > --output=example-rkt_hl_kate.html \
         > example.md
 
-I have included the files **example-no_rkt_hl.html**, **example-rkt_hi.html**
+I have included the files **example-no_rkt_hl.html**, **example-rkt_hl.html**
 and **example-rkt_hl_kate.html** as generated on my computer running pandoc 2.13
 on macOS 11.1 in the **examples** folder.
 
